@@ -1,0 +1,13 @@
+/* Cambiar color de fondo */
+body {
+    background-color: rgba(255, 161, 132, 0.781);
+}
+
+/* Cambiar color de letra */
+/* Letras en mayúscula */
+h1 {
+    color: slategrey;
+    text-transform: uppercase;
+}
+
+
